@@ -3,7 +3,7 @@
 }
 .category-card{
     background-color: #D1E9F6;
-    width: 410px;
+    max-width: 430px;
 }
 .position-absolute{
     bottom: 30px;
